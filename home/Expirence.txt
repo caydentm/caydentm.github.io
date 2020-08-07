@@ -1,0 +1,30 @@
+---
+title: "Expirence"
+weight: 2
+---
+Test test test
+
+
+<table align="left">
+<tbody>
+  <tr>
+    <td>6/2020-present</td>
+    <td>
+AL WILLIAMS FOR STATE REPRESENTATIVE,
+Detroit, MI ‒ Communications Assistant<br>
+<left><ul>
+ <li>Designed, wrote, and managed email and social media campaigns
+ <li>Used data to increase open, click-through, and conversion rates
+ <li>Ran sign-in and collected donations at campaign events
+</ul>
+- Designed, wrote, and managed email and social media campaigns
+- Used data to increase open, click-through, and conversion rates
+- Ran sign-in and collected donations at campaign event
+</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
